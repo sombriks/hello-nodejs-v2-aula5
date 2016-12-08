@@ -1,8 +1,8 @@
 # Aula 5
 
-- 90 minutos
+[Aula 1](https://github.com/sombriks/hello-nodejs-v2-aula1) | [Aula 2](https://github.com/sombriks/hello-nodejs-v2-aula2) | [Aula 3](https://github.com/sombriks/hello-nodejs-v2-aula3) | [Aula 4](https://github.com/sombriks/hello-nodejs-v2-aula4) | Aula 5 | [Aula 6](https://github.com/sombriks/hello-nodejs-v2-aula6) | [Aula 7](https://github.com/sombriks/hello-nodejs-v2-aula7) | [Aula 8](https://github.com/sombriks/hello-nodejs-v2-aula8) | [Aula 9](https://github.com/sombriks/hello-nodejs-v2-aula9)
 
-[Aula 1](https://github.com/sombriks/hello-nodejs-v2-aula1) | [Aula 2](https://github.com/sombriks/hello-nodejs-v2-aula2) | [Aula 3](https://github.com/sombriks/hello-nodejs-v2-aula3) | [Aula 4](https://github.com/sombriks/hello-nodejs-v2-aula4) | Aula 5 | [Aula 6](https://github.com/sombriks/hello-nodejs-v2-aula6) | [Aula 7](https://github.com/sombriks/hello-nodejs-v2-aula7) | Aula 8 | Aula 9
+- 90 minutos
 
 ## [Organizando os diretórios do projeto](5.1-organizando-diretorios-do-projeto/README.md)
 
